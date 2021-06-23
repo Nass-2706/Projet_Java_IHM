@@ -1,1 +1,7 @@
 Pour executer le fichier, vous devrez importer une archive. Cetta archive est un JAR contenu dans le dossier deps.
+
+Il s'agit donc du fichier "json-20210307.jar"
+
+Dans le Build Path du projet, son adresse est absolue et non relative, c'est la raison pour laquelle vous devez manuellement changer les librairies externes.
+
+Cordialement
